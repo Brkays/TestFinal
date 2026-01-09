@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\controllers\\checkinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:controllers\\checkinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\services\\checkinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:services\\checkinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\services\\fakefacematchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:services\\fakefacematchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\services\\ifacematchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:services\\ifacematchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\dtos\\checkincreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:dtos\\checkincreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\models\\vwexamreportsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:models\\vwexamreportsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\dtos\\rosteradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:dtos\\rosteradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\controllers\\seatingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:controllers\\seatingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\models\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:models\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\dtos\\examcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:dtos\\examcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\controllers\\securitytestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:controllers\\securitytestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|c:\\users\\aksoy\\source\\aspnetcore\\testfinal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E7CC77-614A-4AE4-A78E-E6ED6F4FFB0E}|TestFinal.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckInsController.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Controllers\\CheckInsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckInsController.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Controllers\\CheckInsController.cs",
+              "RelativeToolTip": "Controllers\\CheckInsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:56:09.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckInService.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Services\\CheckInService.cs",
+              "RelativeDocumentMoniker": "Services\\CheckInService.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Services\\CheckInService.cs",
+              "RelativeToolTip": "Services\\CheckInService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAvwDwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:54:43.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FakeFaceMatchService.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Services\\FakeFaceMatchService.cs",
+              "RelativeDocumentMoniker": "Services\\FakeFaceMatchService.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Services\\FakeFaceMatchService.cs",
+              "RelativeToolTip": "Services\\FakeFaceMatchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:53:54.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFaceMatchService.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Services\\IFaceMatchService.cs",
+              "RelativeDocumentMoniker": "Services\\IFaceMatchService.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Services\\IFaceMatchService.cs",
+              "RelativeToolTip": "Services\\IFaceMatchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:53:36.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckInCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Dtos\\CheckInCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CheckInCreateDto.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Dtos\\CheckInCreateDto.cs",
+              "RelativeToolTip": "Dtos\\CheckInCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:53:06.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VwExamReportSummary.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Models\\VwExamReportSummary.cs",
+              "RelativeDocumentMoniker": "Models\\VwExamReportSummary.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Models\\VwExamReportSummary.cs",
+              "RelativeToolTip": "Models\\VwExamReportSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:43:25.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:38:03.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckIn.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Models\\CheckIn.cs",
+              "RelativeDocumentMoniker": "Models\\CheckIn.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Models\\CheckIn.cs",
+              "RelativeToolTip": "Models\\CheckIn.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:33:19.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeatingController.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Controllers\\SeatingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SeatingController.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Controllers\\SeatingController.cs",
+              "RelativeToolTip": "Controllers\\SeatingController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:20:58.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExamsController.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Controllers\\ExamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExamsController.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Controllers\\ExamsController.cs",
+              "RelativeToolTip": "Controllers\\ExamsController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwFsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:20:35.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RosterAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Dtos\\RosterAddDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RosterAddDto.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Dtos\\RosterAddDto.cs",
+              "RelativeToolTip": "Dtos\\RosterAddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:20:09.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExamCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Dtos\\ExamCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ExamCreateDto.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Dtos\\ExamCreateDto.cs",
+              "RelativeToolTip": "Dtos\\ExamCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:19:46.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SecurityTestController.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Controllers\\SecurityTestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SecurityTestController.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Controllers\\SecurityTestController.cs",
+              "RelativeToolTip": "Controllers\\SecurityTestController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:04:39.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:04:17.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:00:22.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-09T08:58:18.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aksoy\\source\\AspNetCore\\TestFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:44:10.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
